@@ -6,8 +6,11 @@ You keep our ship afloat.
 
 ## Coffee
 
+<<<<<<< HEAD
 - **[Unknown][BMC]** ☕☕☕
 - **[Dajis][BMC]** ☕ *Thank you! its saved me  lots of time*
+=======
+>>>>>>> parent of acbc012... Dajis support
 - **[Someone][BMC]** ☕
 - **[Mattia Moraldi][BMC]** ☕ *Thank you very much!!*
 - **[Someone][BMC]** ☕
